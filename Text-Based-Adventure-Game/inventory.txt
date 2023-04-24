@@ -1,0 +1,4 @@
+Armour,1
+Wood,1
+Protective shoes,1
+Potions,3
